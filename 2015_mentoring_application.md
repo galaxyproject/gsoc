@@ -11,9 +11,9 @@ TODO provide backup PDF of Ideas list.
   contributions to the core project from dozens of developers - and many more
   developers than that building plugins (to integrate bioinformatics
   applications), building downstream projects leveraging Galaxy via its API,
-  and maitaining forks that tailor Galaxy to specific sites or scientific
+  and maintaining forks that tailor Galaxy to specific sites or scientific
   application areas. Galaxy is actively deployed and extended at dozens if not
-  hundreds of sites ranging from small acedemic labs to large public research
+  hundreds of sites ranging from small academic labs to large public research
   institutions and private corporations. Our mentor list is made up developers
   and researchers from many different Universities and spanning three
   continents.
@@ -60,7 +60,7 @@ TODO provide backup PDF of Ideas list.
 
 1. What Open Source Initiative approved license(s) does your project use?
 
-   Galaxy is licensed under the Acemedic Free License version 3.0 - an OSI approved license. https://bitbucket.org/galaxy/galaxy-central/src/tip/LICENSE.txt
+   Galaxy is licensed under the Academic Free License version 3.0 - an OSI approved license. https://bitbucket.org/galaxy/galaxy-central/src/tip/LICENSE.txt
 
 1. What is the URL for your Ideas list? This is the most important part of your proposal. Please make sure we can access it and it is complete when you submit this proposal. “Placeholder” or inaccessible ideas pages will be grounds for an automatic rejection for participation in Google Summer of Code 2015.
 
@@ -82,46 +82,45 @@ TODO provide backup PDF of Ideas list.
 1. What criteria did you use to select the mentors? Please be as specific as possible.
 
   We have selected projects that we believe will have a high impact on making
-  biomedical research more open and accessible - and then within that
-  framework worked to find mentors who we believe will enable and guide
-  students to be successful. We have chosen people who are friendly and eager
-  to mentor and who care about the the given project. While we have a diverse
-  group of potential mentors - we are certain each is dedicated and has a
-  track record of successful contributions to open source and is well known in
-  the Galaxy community and to the organizers.
+  biomedical research more open and accessible - and then within that framework
+  worked to find mentors who we believe will enable and guide students to be
+  successful. We have chosen people who are friendly and eager to mentor and
+  who care about the given project. While we have a diverse group of potential
+  mentors - we are certain each is dedicated and has a track record of
+  successful contributions to open source and is well known in the Galaxy
+  community and to the organizers.
 
 1. What is your plan for dealing with disappearing students? Please be as specific as possible.
 
   The organizers intend to check in with each student on a weekly basis in
   order to uncover blocking issues and then address issues in a timely fashion
   or help find alternatives to work around these blocks. We will encourage
-  mentors to communicate with even greater frequency. For intern intiated
-  communication, the organizers will be available daily on IRC and will
-  respond quickly to e-mails from students - and we have selected mentors that
-  we believe will be likewise timely in responses as well as welcoming. We
-  hope that intervening before problems grow too overwhelming to students will
-  help prevent disappearing students.
+  mentors to communicate with even greater frequency. For internally initiated
+  communication, the organizers will be available daily on IRC and will respond
+  quickly to e-mails from students - and we have selected mentors that we
+  believe will be likewise timely in responses as well as welcoming. We hope
+  that intervening before problems grow too overwhelming to students will help
+  prevent disappearing students.
 
-  That said - the nature of student projects is sometimes they
-  disappear. If after several failures to communicate with students or
-  if issues arise that neither mentor nor organizers can address - we
-  will solicit advice from the Google Summer of Code community (if
-  appropriate) and then contact the organizers at Google and explain
-  the nature of the problem.
+  That said - the nature of student projects is sometimes they disappear. If
+  after several failures to communicate with students or if issues arise that
+  neither mentor nor organizers can address - we will solicit advice from the
+  Google Summer of Code community (if appropriate) and then contact the
+  organizers at Google and explain the nature of the problem.
 
 1. What is your plan for dealing with disappearing mentors? Please be as specific as possible.
 
   Given the current list of mentors and projects, we are confident the
-  probablity of disappearing mentors is minimal - these are dedicated
+  probability of disappearing mentors is minimal - these are dedicated
   professionals who believe in the value of mentoring students and fostering
   open source communities and the projects listed. That said each project in
-  the idea list has multiple potential mentors and we are confident any of
-  them could step in and ensure the continuity of these projects. In the
-  unlikely event that both potential mentors do not work out - the Galaxy core
+  the idea list has multiple potential mentors and we are confident any of them
+  could step in and ensure the continuity of these projects. In the unlikely
+  event that both potential mentors do not work out - the Galaxy core
   development team has numerous full time developers who are paid to work on
-  the project and who the organizers are confident could fill in as mentors
-  for these projects. In particular the organizers will certainly be available
-  to fill in this role.
+  the project and who the organizers are confident could fill in as mentors for
+  these projects. In particular the organizers will certainly be available to
+  fill in this role.
 
 1. What steps will you take to encourage students to interact with your project's community before, during and after the program?
 
@@ -129,12 +128,12 @@ TODO provide backup PDF of Ideas list.
   ecosystem at https://wiki.galaxyproject.org/Develop/GettingStarted. This
   covers using Galaxy, writing plugins (tools), contributing to the core
   project (including linking out to a list of open bugs and enhancements that
-  are excellent places to get started at https://trello.com/c/eFdPIdIB), and
-  an overview of related projects with links to relevant documentation and
-  issue pages. Before the projects get underway we will encourage potential
-  students to walk through this documentation and start to make contributions
-  - bringing them into the developer community. We will also encourage early
-  communication both on IRC and with our development mailing list.
+  are excellent places to get started at https://trello.com/c/eFdPIdIB), and an
+  overview of related projects with links to relevant documentation and issue
+  pages. Before the projects get underway we will encourage potential students
+  to walk through this documentation and start to make contributions, bringing
+  them into the developer community. We will also encourage early communication
+  both on IRC and with our development mailing list.
 
   We have already laid out of plan to frequently touch bases with students
   during the project itself. In addition to these e-mails, we will encourage
@@ -149,11 +148,11 @@ TODO provide backup PDF of Ideas list.
   enough that we will have a good chance of motivating students to continue
   with the projects once the summer is over and that the wider Galaxy
   development community will be interested in the outcomes of - this we hope
-  will nuture ongoing communication.
+  will nurture ongoing communication.
 
 1. Are you a new organization who has a Googler or other organization to vouch for you? If so, please list their name(s) here.
 
-  TODO (working on it... though I could use help :)
+  TODO (working on it... though I could use help :)   (Checking into this too - DB)
 
 1. Are you an established or larger organization who would like to vouch for a new organization applying this year? If so, please list their name(s) here.
 
@@ -166,12 +165,12 @@ TODO provide backup PDF of Ideas list.
   We believe that these projects a technically exciting and are confident that
   will help. In addition to the required blog post describing the summer's
   projects - we will provide positive feedback to students by highlighting
-  their accomplishments in our release notes and on our Twitter feed. So
-  beyond just technical aspects, we believe providing credit and positive
-  feedback will help encourage ongoing engagement with the project.
+  their accomplishments in our release notes and on our Twitter feed. So beyond
+  just technical aspects, we believe providing credit and positive feedback
+  will help encourage ongoing engagement with the project.
 
   We suspect Galaxy will attract students interested in bioinformatics and
-  graduate school - such students may be interested in writing acedemic papers
+  graduate school - such students may be interested in writing academic papers
   about their projects. If this is the case, we believe this will provide an
   incentive to continue to interact with the community after the summer is
   complete and we will happily assist with these papers and provide ongoing
