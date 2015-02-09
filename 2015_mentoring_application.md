@@ -162,9 +162,9 @@ TODO provide backup PDF of Ideas list.
 
 1. What will you do to encourage that your accepted students stick with the project after Google Summer of Code concludes?
 
-  We believe that these projects a technically exciting and are confident that
+  We believe that the proposed projects are technically exciting and are confident that
   will help. In addition to the required blog post describing the summer's
-  projects - we will provide positive feedback to students by highlighting
+  projects, we will provide positive feedback to students by highlighting
   their accomplishments in our release notes and on our Twitter feed. So beyond
   just technical aspects, we believe providing credit and positive feedback
   will help encourage ongoing engagement with the project.
