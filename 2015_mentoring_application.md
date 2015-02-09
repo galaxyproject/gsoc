@@ -152,7 +152,9 @@ TODO provide backup PDF of Ideas list.
 
 1. Are you a new organization who has a Googler or other organization to vouch for you? If so, please list their name(s) here.
 
-  TODO (working on it... though I could use help :)   (Checking into this too - DB)
+  Nicole Deflaux (Googler)
+
+  (Checking into this too - DB)
 
 1. Are you an established or larger organization who would like to vouch for a new organization applying this year? If so, please list their name(s) here.
 
