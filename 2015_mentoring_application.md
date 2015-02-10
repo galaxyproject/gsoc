@@ -1,7 +1,7 @@
-TODO: waiting to hear back from 'googlers' for references.
-TODO: Work on question "please summarize your involvement and the successes and challenges of your participation"
-TODO: ongoing polish
-TODO provide backup PDF of Ideas list.
+* TODO: waiting to hear back from 'googlers' for references.
+* TODO: Work on question "please summarize your involvement and the successes and challenges of your participation"
+* TODO: ongoing polish
+* TODO provide backup PDF of Ideas list.
 
 1. Describe your organization.
 
@@ -26,8 +26,8 @@ TODO provide backup PDF of Ideas list.
   integration aspects - we hope to grow not only our own developer community
   but also other open source communities and foster relationships between
   projects. The core Galaxy project is largely funded by an National Institute
-  of Health grant whose mandate is that of supporting biotechnology resources
-  - supporting and growing communities is literally what we are paid to do.
+  of Health grant whose mandate is that of supporting biotechnology resources - 
+  supporting and growing communities is literally what we are paid to do.
 
   The Galaxy Project - given its scope - will provide a great opportunity for
   students to gain exposure to many different and cutting edge aspects of
@@ -73,7 +73,7 @@ TODO provide backup PDF of Ideas list.
 
 1. What is the main IRC channel for your organization?
 
-  #galaxyproject on freenode.
+  `#galaxyproject` on freenode.
 
 1. Who will be your backup organization administrator?
 
