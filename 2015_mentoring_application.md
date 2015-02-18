@@ -18,7 +18,8 @@
   and researchers from many different Universities and spanning three
   continents.
 
-1. Why is your organization applying to participate in Google Summer of Code 2015? What do you hope to gain by participating?
+1. Why is your organization applying to participate in Google Summer of Code
+   2015? What do you hope to gain by participating?
 
   The Galaxy Project is passionate about open source and education in
   bioinformatics - we feel the Google Summer of Code will be a great
@@ -50,19 +51,28 @@
   successfully mentored student projects related to Galaxy as part of the
   Genome Informatics organization in the past.
 
-1. If you answered “yes” to the question above, please summarize your involvement and the successes and challenges of your participation. Please also list your pass/fail rate for each year.
+1. If you answered “yes” to the question above, please summarize your
+   involvement and the successes and challenges of your participation. Please
+   also list your pass/fail rate for each year.
 
   TODO
 
-1. If your organization has not previously participated in Google Summer of Code, have you applied in the past? If so, for what year(s)?
+1. If your organization has not previously participated in Google Summer of
+   Code, have you applied in the past? If so, for what year(s)?
 
    No.
 
 1. What Open Source Initiative approved license(s) does your project use?
 
-   Galaxy is licensed under the Academic Free License version 3.0 - an OSI approved license. https://bitbucket.org/galaxy/galaxy-central/src/tip/LICENSE.txt
+   Galaxy is licensed under the Academic Free License version 3.0 - an OSI
+   approved license.
+   https://bitbucket.org/galaxy/galaxy-central/src/tip/LICENSE.txt
 
-1. What is the URL for your Ideas list? This is the most important part of your proposal. Please make sure we can access it and it is complete when you submit this proposal. “Placeholder” or inaccessible ideas pages will be grounds for an automatic rejection for participation in Google Summer of Code 2015.
+1. What is the URL for your Ideas list? This is the most important part of your
+   proposal. Please make sure we can access it and it is complete when you
+   submit this proposal. “Placeholder” or inaccessible ideas pages will be
+   grounds for an automatic rejection for participation in Google Summer of
+   Code 2015.
 
   https://wiki.galaxyproject.org/Develop/GSOC/2015Ideas
 
@@ -79,7 +89,8 @@
 
   Dannon Baker - dannon.baker@gmail.com.
 
-1. What criteria did you use to select the mentors? Please be as specific as possible.
+1. What criteria did you use to select the mentors? Please be as specific as
+   possible.
 
   We have selected projects that we believe will have a high impact on making
   biomedical research more open and accessible - and then within that framework
@@ -90,7 +101,8 @@
   successful contributions to open source and is well known in the Galaxy
   community and to the organizers.
 
-1. What is your plan for dealing with disappearing students? Please be as specific as possible.
+1. What is your plan for dealing with disappearing students? Please be as
+   specific as possible.
 
   The organizers intend to check in with each student on a weekly basis in
   order to uncover blocking issues and then address issues in a timely fashion
@@ -108,7 +120,8 @@
   Google Summer of Code community (if appropriate) and then contact the
   organizers at Google and explain the nature of the problem.
 
-1. What is your plan for dealing with disappearing mentors? Please be as specific as possible.
+1. What is your plan for dealing with disappearing mentors? Please be as
+   specific as possible.
 
   Given the current list of mentors and projects, we are confident the
   probability of disappearing mentors is minimal - these are dedicated
@@ -122,7 +135,8 @@
   these projects. In particular the organizers will certainly be available to
   fill in this role.
 
-1. What steps will you take to encourage students to interact with your project's community before, during and after the program?
+1. What steps will you take to encourage students to interact with your
+   project's community before, during and after the program?
 
   Galaxy has detailed documentation walking new developers through the
   ecosystem at https://wiki.galaxyproject.org/Develop/GettingStarted. This
@@ -150,27 +164,29 @@
   development community will be interested in the outcomes of - this we hope
   will nurture ongoing communication.
 
-1. Are you a new organization who has a Googler or other organization to vouch for you? If so, please list their name(s) here.
+1. Are you a new organization who has a Googler or other organization to vouch
+   for you? If so, please list their name(s) here.
 
-  Nicole Deflaux (Googler)
+  Nicole Deflaux (Google Genomics)
   Warwick Irwin (Googler)
+  Jonathan Bingham (Google Genomics)
 
-  (Checking into this too - DB)
+1. Are you an established or larger organization who would like to vouch for a
+   new organization applying this year? If so, please list their name(s) here.
 
-1. Are you an established or larger organization who would like to vouch for a new organization applying this year? If so, please list their name(s) here.
+  Though neither is new - we have collaborated with both the Genome Informatics
+  and BioJS organizations this year and are confident that both would be
+  fantastic mentoring organizations for the Google Summer of Code.
 
-  Though neither is new - we have collaborated with both the Genome
-  Informatics and BioJS organizations this year and are confident that both
-  would be fantastic mentoring organizations for the Google Summer of Code.
+1. What will you do to encourage that your accepted students stick with the
+   project after Google Summer of Code concludes?
 
-1. What will you do to encourage that your accepted students stick with the project after Google Summer of Code concludes?
-
-  We believe that the proposed projects are technically exciting and are confident that
-  will help. In addition to the required blog post describing the summer's
-  projects, we will provide positive feedback to students by highlighting
-  their accomplishments in our release notes and on our Twitter feed. So beyond
-  just technical aspects, we believe providing credit and positive feedback
-  will help encourage ongoing engagement with the project.
+  We believe that the proposed projects are technically exciting and are
+  confident that will help. In addition to the required blog post describing
+  the summer's projects, we will provide positive feedback to students by
+  highlighting their accomplishments in our release notes and on our Twitter
+  feed. So beyond just technical aspects, we believe providing credit and
+  positive feedback will help encourage ongoing engagement with the project.
 
   We suspect Galaxy will attract students interested in bioinformatics and
   graduate school - such students may be interested in writing academic papers
