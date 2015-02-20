@@ -22,14 +22,13 @@
 
   The Galaxy Project is passionate about open source and education in
   bioinformatics - we feel the Google Summer of Code will be a great
-  opportunity to advance these objectives. Our project idea list also
-  features numerous cross-project integration ideas - we hope to grow
-  not only our own developer community but also the communities of
-  other projects while simultaneously strenghening relationships
-  between these projects. The core Galaxy project is largely funded by
-  an National Institute of Health grant whose mandate is that of
-  supporting biotechnology resources - supporting and growing
-  communities is literally what we are paid to do.
+  opportunity to advance these objectives. Our project idea list also features
+  numerous cross-project integration ideas - we hope to grow not only our own
+  developer community but also the communities of other projects while
+  simultaneously strenghening relationships between these projects. The core
+  Galaxy project is largely funded by an National Institute of Health grant
+  whose mandate is that of supporting biotechnology resources - supporting and
+  growing communities is literally what we are paid to do.
 
   The Galaxy Project - given its scope - will provide a great opportunity for
   students to gain exposure to many different and cutting edge aspects of
@@ -40,23 +39,24 @@
   usability, and a variety of computing types (cloud, container, and
   traditional cluster). We believe this diversity is reflected in our project
   idea list and are confident it means Galaxy will provide an abundance of
-  opportunities to potential students. Put another way - we have a wide
-  variety of projects each of which can be taken in diverse directions and we
-  are confident this will provide an excellent learning experience for
-  students with divergent interests.
+  opportunities to potential students. Put another way - we have a wide variety
+  of projects each of which can be taken in diverse directions and we are
+  confident this will provide an excellent learning experience for students
+  with divergent interests.
 
 
 1. Has your organization participated in past Google Summer of Codes? (yes/no)
 
   No - at least as its own mentoring organization, but Galaxy developers have
-  successfully mentored student projects related to Galaxy as part of the
+  successfully mentored a student project related to Galaxy as part of the
   Genome Informatics organization in the past.
 
 1. If you answered “yes” to the question above, please summarize your
    involvement and the successes and challenges of your participation. Please
    also list your pass/fail rate for each year.
 
-  TODO
+  N/A as an organization.  All of the students that developers have helped
+  mentor under other organizations passed.
 
 1. If your organization has not previously participated in Google Summer of
    Code, have you applied in the past? If so, for what year(s)?
@@ -150,22 +150,21 @@
   them into the developer community. We will also encourage early communication
   both on IRC and with our development mailing list.
 
-  We have already laid out our plan to frequently touch base with
-  students during the project itself. In addition to these e-mails, we
-  will encourage students to commit frequently and keep track of their
-  progress on our Trello board - we are confident this will lead to
-  conversations with the wider community. The ideas laid out in the
-  project ideas list include multiple milestones that should
-  facilitate this iterative development style and lead to these to
-  these more frequent, smaller commits that can discussed by the
+  We have already laid out our plan to frequently touch base with students
+  during the project itself. In addition to these e-mails, we will encourage
+  students to commit frequently and keep track of their progress on our Trello
+  board - we are confident this will lead to conversations with the wider
+  community. The ideas laid out in the project ideas list include multiple
+  milestones that should facilitate this iterative development style and lead
+  to these to these more frequent, smaller commits that can discussed by the
   community.
 
-  Finally, we believe all the projects listed are open ended and
-  exciting enough that we will have a good chance of motivating
-  students to continue with the projects once the summer is over. The
-  projects are also very impactful and so the wider Galaxy development
-  community will continue to be interested in ongoing efforts - this
-  we hope will nurture ongoing communication.
+  Finally, we believe all the projects listed are open ended and exciting
+  enough that we will have a good chance of motivating students to continue
+  with the projects once the summer is over. The projects are also very
+  impactful and so the wider Galaxy development community will continue to be
+  interested in ongoing efforts - this we hope will nurture ongoing
+  communication.
 
 1. Are you a new organization who has a Googler or other organization to vouch
    for you? If so, please list their name(s) here.
@@ -192,14 +191,14 @@
   feed. So beyond just technical aspects, we believe providing credit and
   positive feedback will help encourage ongoing engagement with the project.
 
-  We suspect Galaxy will attract students interested in bioinformatics
-  and graduate school - such students may be interested in writing
-  academic papers about their projects. If this is the case, we
-  believe this will provide an incentive to continue to interact with
-  the community after the summer is complete and we will happily
-  assist with these papers and provide ongoing feedback. Hundreds of
-  papers are written every year involving Galaxy in some way
+  We suspect Galaxy will attract students interested in bioinformatics and
+  graduate school - such students may be interested in writing academic papers
+  about their projects. If this is the case, we believe this will provide an
+  incentive to continue to interact with the community after the summer is
+  complete and we will happily assist with these papers and provide ongoing
+  feedback. Hundreds of papers are written every year involving Galaxy in some
+  way
   (https://wiki.galaxyproject.org/GalaxyProject/Statistics#Publications_.2F_Citations)
-  and last year's intern Saket Choudhary has a preprint up on
-  bioRxiv.org describing some of his contributions to the Galaxy -
+  and last year's intern Saket Choudhary has a preprint up on bioRxiv.org
+  describing some of his contributions to the Galaxy -
   http://biorxiv.org/content/early/2014/10/19/010538.
