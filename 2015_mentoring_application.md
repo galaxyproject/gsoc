@@ -1,4 +1,3 @@
-* TODO: Work on question "please summarize your involvement and the successes and challenges of your participation"
 * TODO: ongoing polish
 * TODO provide backup PDF of Ideas list.
 
